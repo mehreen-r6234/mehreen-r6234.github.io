@@ -1,3 +1,9 @@
+---
+title: "Experience"
+permalink: /Experience/
+author_profile: true
+---
+
 ## EXPERIENCE
 
 ### Senior Software Engineer, Expert Services
