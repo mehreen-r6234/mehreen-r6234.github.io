@@ -7,8 +7,8 @@ author_profile: true
 ### Senior Software Engineer, Expert Services
 
 **Optimizely**
-:calendar:January, 2023 – Present
-:round_pushpin:New York, New York
+📅 January, 2023 – Present
+📍 New York, New York
 &#129045;
 ### Software Engineer, Expert Services
 
