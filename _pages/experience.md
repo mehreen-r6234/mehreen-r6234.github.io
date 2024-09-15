@@ -6,14 +6,14 @@ author_profile: true
 
 ## Senior Software Engineer, Expert Services
 
+**⬆**
+
+#### Software Engineer, Expert Services
+
 **Optimizely**
 
 ###### 📅 December, 2021 – December, 2022
 ###### 📍 New York, New York
-
-**⬆**
-
-#### Software Engineer, Expert Services
 
 - Empowered 50+ clients with data-driven decisions (APIs/SQL, reports)
     leading to a 95% satisfaction increase
