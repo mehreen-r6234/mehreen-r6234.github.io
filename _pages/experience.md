@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Industry Experience"
 permalink: /Experience/
 author_profile: true
 ---
