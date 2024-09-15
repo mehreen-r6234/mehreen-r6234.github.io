@@ -4,17 +4,16 @@ permalink: /Experience/
 author_profile: true
 ---
 
-### Senior Software Engineer, Expert Services
-
-**Optimizely**
-
-**⬆**
-##### Software Engineer, Expert Services
+## Senior Software Engineer, Expert Services
 
 **Optimizely**
 
 ###### 📅 December, 2021 – December, 2022
 ###### 📍 New York, New York
+
+**⬆**
+
+#### Software Engineer, Expert Services
 
 - Empowered 50+ clients with data-driven decisions (APIs/SQL, reports)
     leading to a 95% satisfaction increase
@@ -27,7 +26,7 @@ author_profile: true
 - Mentored junior engineers, fostering a collaborative and knowledge-sharing
     team
 
-### QA Specialist
+## QA Specialist
 
 **Eskimi DSP**
 
@@ -41,7 +40,7 @@ author_profile: true
 - Collaborated on functional and non-functional testing (fostered team envi-
     ronment)
 
-### Software Engineer, QA
+## Software Engineer, QA
 
 **TigerIT Bangladesh Limited**
 
