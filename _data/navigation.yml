@@ -5,9 +5,9 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research"
-    url: /Research/
-
+  # - title: "Research"
+  #   url: /Research/
+  
   - title: "Experience"
     url: /Experience/
 
