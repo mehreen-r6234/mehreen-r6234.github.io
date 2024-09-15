@@ -4,15 +4,12 @@ permalink: /Experience/
 author_profile: true
 ---
 
-## EXPERIENCE
-
 ### Senior Software Engineer, Expert Services
 
 **Optimizely**
-January, 2023 – Present ½New York, New York
-x
-
-
+:calendar:January, 2023 – Present
+:round_pushpin:New York, New York
+&#129045;
 ### Software Engineer, Expert Services
 
 **Optimizely**
