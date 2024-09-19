@@ -1,8 +1,11 @@
 ---
-layout: archive
+# layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+redirect_from: 
+  - /_portfolio
+  # - /about.html
 ---
 
 {% include base_path %}
