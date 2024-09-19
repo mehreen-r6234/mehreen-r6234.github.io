@@ -1,6 +1,6 @@
 ---
 title: "Industry Experience"
-# permalink: /Experience/
+permalink: /experience/
 author_profile: true
 ---
 
