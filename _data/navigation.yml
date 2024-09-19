@@ -9,10 +9,10 @@ main:
   #   url: /Research/
   
   - title: "Experience"
-    url: /Experience/
+    url: /experience/
 
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Portfolio"
     url: /portfolio/
