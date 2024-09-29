@@ -217,7 +217,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    # output: true
     permalink: /:collection/:path/
   talks:
     output: true
