@@ -265,7 +265,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: pages
     values:
       layout: single
       author_profile: true
