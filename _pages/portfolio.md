@@ -4,9 +4,5 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-- **Data Science**
-    - Big data analytics
-    - Data mining
-    - Data visualization
-    - Predictive analytics
-    - Data engineering
+<p>Short description of portfolio item number 1<br/><img src='/images/500x300.png'></p>
+
