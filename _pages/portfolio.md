@@ -4,5 +4,11 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<p>Short description of portfolio item number 1<br/><img src='/images/500x300.png'></p>
+
+# [MaskedOrNot](https://github.com/mehreen-r6234/MaskedOrNot)
+## Personal Project
+### 📅 January, 2021
+
+
+<p>A mask detection project, integrated with ultra lightweight face detector model and lightweight mask detector model<br/><img src='/images/face-detection.png'></p>
 
