@@ -7,21 +7,21 @@ author_profile: true
 
 ## Artificial Intelligence and Machine Learning
 - Large Language Model
-- Deep learning
-- Natural language processing
-- Reinforcement learning
+- Deep Learning
+- Natural Language Processing
+- Reinforcement Learning
 
 ## Bioinformatics
 - Genomics
-- Biomedical data analysis
+- Biomedical Data Analysis
 
 ## Cybersecurity
-- Application security
+- Application Security
 - Cryptography
 
 ## Data Science
-- Big data analytics
-- Data engineering
+- Big Data Analytics
+- Data Engineering
 
 ## Human Computer Interaction
 
