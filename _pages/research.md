@@ -1,28 +1,28 @@
 ---
 title: "Research Interest"
-permalink: /research/
+permalink: /Research/
 author_profile: true
 ---
 
 
-**- Artificial Intelligence and Machine Learning**
+**Artificial Intelligence and Machine Learning**
 * Large Language Model
 * Deep learning
 * Natural language processing
 * Reinforcement learning
 
-**- Bioinformatics**
+**Bioinformatics**
 * Genomics
 * Biomedical data analysis
 
-**- Cybersecurity**
+**Cybersecurity**
 * Application security
 * Cryptography
 
-**- Data Science**
+**Data Science**
 * Big data analytics
 * Data engineering
 
-**- Human Computer Interaction**
+**Human Computer Interaction**
 
 **- Psychoinformatics**
