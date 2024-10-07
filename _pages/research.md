@@ -2,26 +2,30 @@
 title: "Research Interest"
 permalink: /research/
 author_profile: true
+redirect_from: 
+  - /research/
+  - /research.md
+
 ---
 
 
 ## - Artificial Intelligence and Machine Learning
-    - Large Language Model
-    - Deep learning
-    - Natural language processing
-    - Reinforcement learning
+- Large Language Model
+- Deep learning
+- Natural language processing
+- Reinforcement learning
 
 ## - Bioinformatics
-	- Genomics
-	- Biomedical data analysis
+- Genomics
+- Biomedical data analysis
 
 ## - Cybersecurity
-	- Application security
-	- Cryptography
+- Application security
+- Cryptography
 
 ## - Data Science
-    - Big data analytics
-    - Data engineering
+- Big data analytics
+- Data engineering
 
 ## - Human Computer Interaction
 
