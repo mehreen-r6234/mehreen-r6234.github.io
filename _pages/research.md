@@ -4,30 +4,25 @@ permalink: /research/
 author_profile: true
 ---
 
-- **Data Science**
-    - Big data analytics
-    - Data mining
-    - Data visualization
-    - Predictive analytics
-    - Data engineering
+
+- **Artificial Intelligence and Machine Learning**
+    - Large Language Model
+    - Deep learning
+    - Natural language processing
+    - Reinforcement learning
+
+- **Bioinformatics**
+	- Genomics
+	- Biomedical data analysis
 
 - **Cybersecurity**
 	- Application security
 	- Cryptography
-	- Digital forensics
-	- Ethical hacking
-    - Network security
 
-- **Bioinformatics**
-	- Computational biology
-	- Genomics
-	- Proteomics
-	- Bioinformatics algorithms
-	- Biomedical data analysis
+- **Data Science**
+    - Big data analytics
+    - Data engineering
 
-- **Artificial Intelligence and Machine Learning**
-    - Deep learning
-    - Natural language processing
-    - Computer vision
-    - Reinforcement learning
-    - Generative models
+- **Human Computer Interaction
+
+- **Psychoinformatics
