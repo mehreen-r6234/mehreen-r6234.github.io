@@ -1,17 +1,17 @@
 ---
 title: "Industry Experience"
-permalink: /experience/
+permalink: /Experience/
 author_profile: true
 ---
 
 ## Senior Software Engineer, Expert Services
 
-## Optimizely
+**Optimizely**
 
 ###### 📅 January, 2023 – Present
 ###### 📍 New York, New York
 
-## ⬆
+**⬆**
 
 #### Software Engineer, Expert Services
 ###### 📅 December, 2021 – December, 2022
@@ -24,7 +24,7 @@ author_profile: true
 
 ## QA Specialist
 
-## Eskimi DSP
+**Eskimi DSP**
 
 ###### 📅 April, 2021 – November, 2021
 ###### 📍 Vilnius, Lithuania
@@ -36,7 +36,7 @@ author_profile: true
 
 ## Software Engineer, QA
 
-## TigerIT Bangladesh Limited
+**TigerIT Bangladesh Limited**
 
 ###### 📅 April, 2019 – March, 2021
 ###### 📍 Dhaka, Bangladesh
