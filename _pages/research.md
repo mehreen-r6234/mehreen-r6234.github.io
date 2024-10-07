@@ -1,6 +1,6 @@
 ---
 title: "Research Interest"
-permalink: /Research/
+permalink: /research/
 author_profile: true
 ---
 
