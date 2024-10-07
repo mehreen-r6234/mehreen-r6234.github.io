@@ -23,6 +23,6 @@ author_profile: true
     - Big data analytics
     - Data engineering
 
-- **Human Computer Interaction
+- **Human Computer Interaction**
 
-- **Psychoinformatics
+- **Psychoinformatics**
