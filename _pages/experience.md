@@ -16,8 +16,8 @@ author_profile: true
 #### Software Engineer, Expert Services
 ###### 📅 December, 2021 – December, 2022
 
-- Empowered 50+ clients with data-driven decisions (APIs/SQL, reports) leading to a 95% satisfaction increase
-- Streamlined onboarding and data migration for about 50 customers (optimized data management, reducing onboarding time by 40%)
+- Empowered 100+ clients with data-driven decisions (APIs/SQL, reports) leading to a 95% satisfaction increase
+- Streamlined onboarding and data migration for about 100 customers (optimized data management, reducing onboarding time by 40%)
 - Maintained and developed features for internal product (200+ WAUs) using Flask and Docker (ensured scalability), reducing a 30% traffic increase
 - Championed code maintainability, proactively troubleshooting legacy code to prevent potential outages
 - Mentored junior engineers, fostering a collaborative and knowledge-sharing team
